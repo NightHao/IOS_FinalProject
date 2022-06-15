@@ -1,0 +1,352 @@
+/* No comment provided by engineer. */
+"主持" = "Host";
+
+/* No comment provided by engineer. */
+"主持人" = "Host";
+
+/* No comment provided by engineer. */
+"平手！" = "Draw！";
+
+/* No comment provided by engineer. */
+"生日" = "Birthday";
+
+/* No comment provided by engineer. */
+"由於主持人已離開，自動成為主持人" = "Since the host has left, automatically become the host";
+
+/* No comment provided by engineer. */
+"好" = "OK";
+
+/* No comment provided by engineer. */
+"成功" = "Success";
+
+/* No comment provided by engineer. */
+"有玩家還沒準備完成喔！" = "Some players are not ready yet！";
+
+/* No comment provided by engineer. */
+"自動登入中..." = "Automatic login...";
+
+/* No comment provided by engineer. */
+"你()的棋子數目: \n對手()的棋子數目:" = "The number of your() pieces: \nThe number of opponent's() pieces:";
+
+/* No comment provided by engineer. */
+"你投降了!" = "You surrendered!";
+
+/* No comment provided by engineer. */
+"你知道嗎...\n" = "Do you know...\n";
+
+/* No comment provided by engineer. */
+"完成" = "Finish";
+
+/* No comment provided by engineer. */
+"投降" = "Surrender";
+
+/* No comment provided by engineer. */
+"使用者密碼" = "User Password";
+
+/* No comment provided by engineer. */
+"使用者Email(帳號)" = "User Email(account)";
+
+/* No comment provided by engineer. */
+"來自哪個國家" = "Which country are you from";
+
+/* No comment provided by engineer. */
+"其他" = "Other";
+
+/* No comment provided by engineer. */
+"取消" = "Cancel";
+
+/* No comment provided by engineer. */
+"取消準備" = "Cancel ready";
+
+/* No comment provided by engineer. */
+"尚未準備" = "Not ready yet";
+
+/* No comment provided by engineer. */
+"尚未準備完成" = "Not ready yet";
+
+/* No comment provided by engineer. */
+"性別" = "Gender";
+
+/* No comment provided by engineer. */
+"房主: " = "Host: ";
+
+/* No comment provided by engineer. */
+"房號: " = "Number: ";
+
+/* No comment provided by engineer. */
+"返回" = "Back";
+
+/* No comment provided by engineer. */
+"前往設置個人資料" = "Set up profile";
+
+/* No comment provided by engineer. */
+"重新輸入" = "Re-enter";
+
+/* No comment provided by engineer. */
+"音量" = "Volume";
+
+/* No comment provided by engineer. */
+"音樂設定" = "Music settings";
+
+/* No comment provided by engineer. */
+"修改密碼" = "Change Password";
+
+/* No comment provided by engineer. */
+"修改暱稱" = "Change User Name";
+
+/* No comment provided by engineer. */
+"套服選擇" = "Overall selection";
+
+/* No comment provided by engineer. */
+"密碼: " = "Password: ";
+
+/* No comment provided by engineer. */
+"帳號設定" = "Account settings";
+
+/* No comment provided by engineer. */
+"您確定真的要投降嗎" = "Are you sure you really want to surrender";
+
+/* No comment provided by engineer. */
+"敗場: " = "Lose: ";
+
+/* No comment provided by engineer. */
+"現在輪到" = "Now it's turn";
+
+/* No comment provided by engineer. */
+"設定個人資料" = "Set personal information";
+
+/* No comment provided by engineer. */
+"勝率: " = "Win rate: ";
+
+/* No comment provided by engineer. */
+"勝率: 0%" = "Win rate: 0%";
+
+/* No comment provided by engineer. */
+"勝場: " = "Win: ";
+
+/* No comment provided by engineer. */
+"登出" = "Sign out";
+
+/* No comment provided by engineer. */
+"進入房間" = "Enter the room";
+
+/* No comment provided by engineer. */
+"開始" = "Play";
+
+/* No comment provided by engineer. */
+"黃" = "Yellow";
+
+/* No comment provided by engineer. */
+"黑" = "Black";
+
+/* No comment provided by engineer. */
+"黑白棋是19世紀末英國人發明的。直到上個世紀70年代日本人長谷川五郎將其發展，借用莎士比亞名劇奧賽羅為這個遊戲重新命名。\n\n\n奧賽羅是一個黑人，妻子是白人，因受小人挑撥，懷疑妻子不忠一直情海翻波，最終親手把妻子殺死。後來真相大白，奧賽羅懊悔不已，自殺而死。黑白棋就是借用這個黑人白人鬥爭的故事。" = "Othello was invented by the British at the end of the 19th century. It wasn't until the Japanese Hasegawa Goro developed it in the 1970s and renamed the game after borrowing from Shakespeare's famous play Othello.\n\n\nOthello is a black man and his wife is white. He was provoked by the villain and suspected of his wife's unfaithfulness. He eventually killed his wife personally. After the truth came to light, Othello repented and committed suicide. Othello is to borrow this story of black and white struggle.";
+
+/* No comment provided by engineer. */
+"準備" = "Ready";
+
+/* No comment provided by engineer. */
+"遊戲中.." = "Gaming";
+
+/* No comment provided by engineer. */
+"遊戲規則" = "Game rules";
+
+/* No comment provided by engineer. */
+"遊戲策略" = "Game strategy";
+
+/* No comment provided by engineer. */
+"對手投降了!" = "Opponent surrendered!";
+
+/* No comment provided by engineer. */
+"語言設定" = "Language settings";
+
+/* No comment provided by engineer. */
+"暱稱: " = "User Name: ";
+
+/* No comment provided by engineer. */
+"暱稱錯誤" = "Name error";
+
+/* No comment provided by engineer. */
+"確定" = "OK";
+
+/* No comment provided by engineer. */
+"確認" = "Confirm";
+
+/* No comment provided by engineer. */
+"確認密碼" = "Confirm password";
+
+/* No comment provided by engineer. */
+"膚色選擇" = "Skin color selection";
+
+/* No comment provided by engineer. */
+"請重新登入" = "Please login again";
+
+/* No comment provided by engineer. */
+"髮型選擇" = "Hair style selection";
+
+/* No comment provided by engineer. */
+"輸了！" = "Lose！";
+
+/* No comment provided by engineer. */
+"輸入房間密碼" = "Enter the room password..";
+
+/* No comment provided by engineer. */
+"輸入房號.." = "Enter the room number..";
+
+/* No comment provided by engineer. */
+"輸入暱稱" = "Enter the user name";
+
+/* No comment provided by engineer. */
+"選擇語言" = "Language selection";
+
+/* No comment provided by engineer. */
+"錯誤" = "Error";
+
+/* No comment provided by engineer. */
+"隨機" = "Random";
+
+/* No comment provided by engineer. */
+"獲勝！" = "Win！";
+
+/* No comment provided by engineer. */
+"臉型選擇" = "Face selection";
+
+/* No comment provided by engineer. */
+"離開" = "Leave";
+
+/* ContentView */
+"翻轉黑白棋" = "Othello";
+
+/* UserView */
+"個人資料" = "Personal information";
+
+"金幣" = "Money";
+
+"國家" = "Country";
+
+"首次登入" = "First login";
+
+"隱藏" = "Hide";
+
+"顯示" = "Show";
+
+"創建遊戲房間" = "Create a room";
+
+"進入遊戲房間" = "Enter a room";
+
+"是否創建私人房間" = "Create a private room?";
+
+"如果要創建私人房間，請輸入六位密碼\n如果要創建公開房間，請直接點選創建" = "If you want to create a private room, please enter a six-digit password\nIf you want to create a public room, please click Create";
+
+"創建" = "Create";
+
+"輸入了錯誤格式的密碼" = "Password format error";
+
+"看廣告拿獎勵" = "Watch the advertisement and get rewards";
+
+"若不允許追蹤使用者在其它公司APP和網站的記錄,則無法使用該功能" = "If you are not allowed to track the user's data in other company apps and websites, you cannot use this rewards";
+
+/* SettingView */
+"設定" = "Settings";
+
+"音樂" = "Music";
+
+"修改" = "Modify";
+
+"輸入新的暱稱" = "Enter a new user name";
+
+"修改暱稱成功!" = "Successfully modified user name!";
+
+"發生不明錯誤，請稍後再試" = "An unknown error occurred, please try again later";
+
+"暱稱不得為空!" = "User name cannot be empty!";
+
+"輸入舊的&新的密碼" = "Enter old & new password";
+
+"輸入舊密碼" = "Enter old password";
+
+"輸入新密碼" = "Enter new password";
+
+"修改密碼成功!" = "Successfully change password!";
+
+"舊密碼錯誤，請重新輸入" = "The old password is wrong, please re-enter";
+
+"警告" = "Warning";
+
+"更換語言需要重新啟動APP" = "Change language requires restarting the APP";
+
+"遊戲規則/策略 & 金幣說明" = "Game rules/strategy & gold coin description";
+
+/* GameRule */
+"棋盤共有8行8列共64格。\n開局時,棋盤正中央的4格先置放黑白相隔的4枚棋子,雙方輪流落子。\n只要落子和棋盤上任一枚己方的棋子在一條線上(橫,直,斜線皆可)夾著對方棋子,就能將對方的這些棋子轉變為我己方(翻面即可)。\n如果在任一位置落子都不能夾住對手的任一顆棋子,就要讓對手下子。\n當雙方皆不能下子時,遊戲就結束,子多的一方勝。" = "The board has 8 rows and 8 columns and a total of 64 grids.\nAt the beginning of the game, the 4 grids in the center of the board are first placed with 4 pieces separated by black and white, and both sides take turns to place.\nAs long as the placed piece and any one of their own pieces on the board are in one If you clamp the opponent's pieces on the line (horizontal, straight or diagonal), you can turn the opponent's pieces into our own (you can turn them over).\nIf you place a piece in any position, you can't clamp any of the opponent's pieces , Let the opponent play.\nWhen neither party can play, the game is over and the one with more plays wins.";
+
+"因為黑白棋獨特的規則,很容易出現雙方比分的劇烈變化,在遊戲後期可能僅用幾個回合就將大量對方棋子變成己方,從而扭轉局勢。\n因此,太著眼於比分是沒有必要的,更重要的是占據有利位置。\n中間位置的棋子最容易受到夾擊,有橫,直,斜線共四個方向的可能。而邊緣的棋子則只有一個可能被夾擊的方向,四個角落上的位置被占據後,則完全不可能被攻擊。\n遊戲的後期是關鍵位置的爭奪,而前期的布局,就是為搶占關鍵位置作準備。例如:若不想讓對方占據棋盤邊緣的有利位置,那麼自己就應避免在靠近邊緣的那一排落子。" = "Because of the unique rules of Othello, it is prone to drastic changes in the scores of both sides. In the late game, it may take only a few rounds to turn a large number of opponents' pieces into one's own side, thereby reversing the situation.\nTherefore, it is not necessary to focus too much on the score. , And more importantly, occupy a favorable position.\nPiers in the middle position are the most vulnerable to being pinched, and there are four directions of horizontal, straight, and diagonal. The edges of the chess pieces have only one possible direction of being pinched, and they are on the four corners. After the position of is occupied, it is completely impossible to be attacked.\nThe latter part of the game is a competition for key positions, and the early layout is to prepare for the key positions. For example: if you do not want the opponent to occupy a favorable position on the edge of the board, Then you should avoid placing children in the row near the edge.";
+
+"入場費" = "Entrance fee";
+
+"每次入場會花費50金幣，若金幣不足，則無法進場\n金幣可透過贏得比賽(贏得一場比賽加100)或是透過看廣告的方式取得獎勵(看一次加10)" = "Each time you enter the game will cost 50 gold coins. If you don’t have enough gold coins, you can’t enter the game room.\nThe gold coins can be rewarded by winning the game (win a game plus 100) or by watching advertisements (watch one time plus 10)";
+
+/* FirstLoginView */
+"暱稱不得為空" = "User name cannot be empty";
+
+"設置基本資料成功" = "Set personal information successfully";
+
+/* RegisterView */
+"註冊" = "Register";
+
+"送出" = "Submit";
+
+"兩次密碼不一致" = "Two passwords are inconsistent";
+
+"註冊成功" = "Registration success";
+
+"電子郵件格式不正確" = "Email format is incorrect";
+
+"電子郵件已被註冊" = "Email has been registered";
+
+"密碼長度需至少大於6" = "The password length must be at least 6";
+
+"不明原因錯誤，請重新註冊" = "Unexplained error, please re-register";
+
+"帳號或密碼不得為空" = "Account or password cannot be empty";
+
+/* IntoRoomView */
+"搜尋遊戲房間" = "Search a room";
+
+"找不到該房間，請重新確認房號" = "Can’t find the room, please reconfirm the room number";
+
+"房間已開始遊戲，請稍後再試" = "The room has started the game, please try again later";
+
+"房間已滿人，請稍後再試" = "The room is full, please try again later";
+
+"金幣不足!!" = "Not enough money!!";
+
+"需要密碼" = "Require password";
+
+"房間密碼" = "Room password";
+
+"進入" = "Enter";
+
+"密碼錯誤" = "Wrong password";
+
+/* WaitingGameView */
+"等待房間: " = "Room: ";
+
+/* GameView */
+"遊戲進行中..." = "Game in progress...";
+
+"沒有地方可以下，被跳過了!" = "There is no place to place piece, skipped";
+
+"對手沒有地方可以下，又輪到你了!" = "The opponent has no place to play, it's your turn again!";
+
+"你(" = "Your(";
+
+")的棋子數目: " = ")pieces: ";
+
+"\n對手(" = "\nOpponent's(";
+
+"您的數據將用於向您投放個性化廣告" = "Your data will be used to deliver personalized ads to you";
+
+
+
+

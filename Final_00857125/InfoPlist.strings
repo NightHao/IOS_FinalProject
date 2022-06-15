@@ -1,0 +1,6 @@
+/* Bundle name */
+"CFBundleName" = "Start Up";
+
+"CFBundleDisplayName" = "Start Up";
+
+"NSUserTrackingUsageDescription" = "Your data will be used to deliver personalized ads to you";
